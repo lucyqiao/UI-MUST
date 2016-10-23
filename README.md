@@ -1,2 +1,3 @@
 # UI-MUST
 * carousel
+* pagination
